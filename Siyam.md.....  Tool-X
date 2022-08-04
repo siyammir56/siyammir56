@@ -1,0 +1,39 @@
+- 👋 Hi, I’m @siyammir56
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+siyammir56/siyammir56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Tool-x is a tool for Termux users
+
+we can install some kali linux tools with this tool
+
+follow these steps to install this tool in Termux
+
+Installation :
+
+$ apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ git clone https://github.com/ekadanuarta/Tool-X
+
+$ cd Tool-X
+
+$ chmod +x *
+
+$ sh install.aex
+
+usage :
+
+To run this tool type 
+
+$ Tool-X
+
+Now select or type number to install any tool...
